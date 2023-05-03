@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T08:57:09.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3TZG95fZtfrHpIjRobVn" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T09:21:42.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="goe3RUcVc83QXFfMxqmD" version="21.2.6" type="github">
   <diagram name="第 1 页" id="vlGPaDkktndjyFfZkC-w">
-    <mxGraphModel dx="545" dy="250" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,122 @@
         </mxCell>
         <mxCell id="EKfRWMLyIXaZCAtgULfe-17" value="1.1游客登记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="414.5" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-20" value="1.2. 导游分配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="411.5" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-21" value="导游分配结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="423" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EKfRWMLyIXaZCAtgULfe-16" target="EKfRWMLyIXaZCAtgULfe-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="461" as="sourcePoint" />
+            <mxPoint x="148" y="411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228" y="440" as="sourcePoint" />
+            <mxPoint x="262" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="439.8" as="sourcePoint" />
+            <mxPoint x="381" y="439.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="437.3" as="sourcePoint" />
+            <mxPoint x="499" y="437.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-26" value="预约信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="484" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.063;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EKfRWMLyIXaZCAtgULfe-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="527" as="sourcePoint" />
+            <mxPoint x="268.56000000000006" y="464.6" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="263" y="502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.48;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318.6" y="463" as="sourcePoint" />
+            <mxPoint x="382" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EKfRWMLyIXaZCAtgULfe-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-29" value="1.3. 意外事件记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="488" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.48;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="460" as="sourcePoint" />
+            <mxPoint x="352" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-31" value="1.4. 游客满意度调查与总结报告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="533" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-32" value="意外事件报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="591" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-33" value="游客满意度调查与总结报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="631" width="81" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-34" value="1.5. 数据分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="599" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-38" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;意外事件报告" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="497" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-39" value="D" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="497" width="21" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 登记完成的游客信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="418.5" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-41" value="D" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="418.5" width="21" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-43" value="分析报告" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="283" y="602.5" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-44" value="D" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="283" y="602.5" width="21" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="607" as="sourcePoint" />
+            <mxPoint x="161" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKfRWMLyIXaZCAtgULfe-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="617" as="sourcePoint" />
+            <mxPoint x="171" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EKfRWMLyIXaZCAtgULfe-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="625" as="sourcePoint" />
+            <mxPoint x="313" y="638" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-49" value="图形元素说明：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="822" y="710" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EKfRWMLyIXaZCAtgULfe-51" value="&lt;div style=&quot;text-align: left;&quot;&gt;图形元素说明：&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;圆形：加工&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(247, 247, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 11px; display: inline !important;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Helvetica;&quot;&gt;&amp;nbsp; &amp;nbsp;箭头：数据流&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;开放矩形：数据存储&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp;平行线矩形：外部实体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="698" width="148" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
